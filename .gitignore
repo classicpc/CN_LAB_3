@@ -1,0 +1,28 @@
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+
+# Executables
+sudoku_validator
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test outputs
+*.out
